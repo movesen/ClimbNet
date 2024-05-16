@@ -4,6 +4,9 @@ This notebook contains the implementation and evaluation of a Node embedding and
 
 ## Setup
 
+### Dataset
+[Link to dropbox download of dataset](https://www.dropbox.com/scl/fo/92ntgb4vdsfartckqtav8/ACh25SZRk7pFYexn9Zh7w0U?rlkey=nfvqoonba0cdjwq361mrrjlf6&st=gru0s7b3&dl=0)
+
 ### Dependencies
 
 - `os`: Standard library module for interacting with the operating system.
