@@ -59,13 +59,3 @@ The results of the evaluation, including accuracy and average test loss, are pri
 
 We want to leverage both embeddings and the spacial information of our graphs better by better defining the Grapch neural network framework, specifically tailored towards subgraph classification as opposed to naive graph classification
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to the creators of PyTorch and PyTorch Geometric for providing powerful tools for deep learning and graph processing.
-- Special thanks to the dataset providers for making the data available for this project.
-
-Feel free to modify this README to better fit your specific project requirements and details.
